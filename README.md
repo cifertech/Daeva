@@ -31,7 +31,7 @@
 
 ## 📖 Explore the Full Documentation
 
-Ready to dive deeper into Daeva's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/arpolan-network-monitoring-and-security-tool/). Click the link and explore further!
+Ready to dive deeper into Daeva's details? Discover the full story, in-depth tutorials, and all the exciting features in our comprehensive [documentation](https://cifertech.net/daeva-your-subghz-replay-attack-gadget-for-rf-hacking/). Click the link and explore further!
 
 
 ## ⚠ Future Changes
