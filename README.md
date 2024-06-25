@@ -87,5 +87,17 @@ CiferTech - [@twitter](https://twitter.com/techcifer) - CiferTech@gmali.com
 
 Project Link: [https://github.com/cifertech/Daeva](https://github.com/cifertech/Daeva)
 
+<!-- Acknowledgments -->
+## :gem: Acknowledgements 
+
+**The libraries and projects listed below are used in this software:**
+ - [arduino_oled_menu](https://github.com/upiir/arduino_oled_menu)
+ - [ScaryRF](https://github.com/FernandoHansen666/ScaryRF-315-433mhz)
+ - [SmartRC-CC1101-Driver-Lib](https://github.com/LSatan/SmartRC-CC1101-Driver-Lib)
+
+   
+**Community Contributors**: Thank you to everyone who contributes to this project and helps improve Daeva.
+
+
  
  
